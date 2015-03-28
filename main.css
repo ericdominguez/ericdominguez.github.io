@@ -11,7 +11,7 @@
 }
 
 .jumbotron {
-  background-image:url('http://upload.wikimedia.org/wikipedia/commons/5/5a/Camping_by_Barriere_Lake,_British_Columbia_-_20040801.jpg');
+  background-image:url('img/headerimage.jpg');
   height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
